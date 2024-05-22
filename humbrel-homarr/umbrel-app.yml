@@ -1,11 +1,11 @@
 manifestVersion: 1
-id: homarr
+id: humbrel-homarr
 name: Homarr
 tagline: One integration to rule them *arr
 icon: https://homarr.dev/img/logo.png
 category: Development
 version: "1.0.0"
-port: 8898
+port: 7575
 description: >-
   The goal of this project is leverage your media server's services to provide powerful and friendly discord and HomeAssistant interfaces.
 
