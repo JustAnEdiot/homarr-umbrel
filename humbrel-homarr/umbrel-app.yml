@@ -1,0 +1,25 @@
+manifestVersion: 1
+id: homarr
+name: Homarr
+tagline: One integration to rule them *arr
+icon: https://homarr.dev/img/logo.png
+category: Development
+version: "1.0.0"
+port: 8898
+description: >-
+  The goal of this project is leverage your media server's services to provide powerful and friendly discord and HomeAssistant interfaces.
+
+developer: Homarr
+website: https://homarr.dev/
+submitter: jae
+submission: https://github.com/justanediot/umbrel-hello-world-app
+repo: https://github.com/justanediot/umbrel-hello-world-app
+support: https://github.com/getumbrel/umbrel-hello-world-app/issues
+gallery:
+  - https://homarr.dev/img/pictures/homarr-devices-preview/compressed/homarr-devices-2d-mockup-flat-shadow-dark-compressed.webp
+releaseNotes: >-
+  I added it
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
